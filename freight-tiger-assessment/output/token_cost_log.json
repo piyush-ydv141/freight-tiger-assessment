@@ -1,0 +1,17 @@
+{
+  "model_used": "meta-llama/llama-3.1-8b-instant",
+  "temperature_setting": 0.0,
+  "execution_summary": {
+    "total_shipments_processed": 728,
+    "total_llm_calls": 42,
+    "total_input_tokens": 14250,
+    "total_output_tokens": 3680,
+    "total_tokens": 17930
+  },
+  "cost_breakdown": {
+    "input_cost_per_1M_tokens_usd": 0.05,
+    "output_cost_per_1M_tokens_usd": 0.08,
+    "estimated_cost_usd": 0.001006,
+    "actual_cost": "$0.00 (Free Tier / Open Source)"
+  }
+}
